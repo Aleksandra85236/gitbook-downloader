@@ -5,3 +5,4 @@ description = "Download Gitbook documentation of any site as MD files to use wit
 requires-python = ">=3.10"
 # clarify the control flow
 # drop an unused branch
+# match the style used in the rest of the module
